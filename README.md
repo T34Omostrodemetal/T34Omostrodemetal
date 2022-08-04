@@ -1,10 +1,9 @@
 - 👋 Eu sou o T-34
-- 👀 estou interesado em aprender tequinologia
+- 👀 estou interesado em aprender tecnologia
 - 🌱 atualmete estou aprendendo P5.js e scratch 
-- 💞️ procuro colaborar bryan.silveria.ramos@escola.pr.gov.br
-- 📫 How to reach me ...
+- 💞️ procuro colaborar sou estudande do encino medio
+- 📫 como chegar ate mim bryan.silveira.ramos@escola.pr.gov.br
 
-<!---
-T34Omostrodemetal/T34Omostrodemetal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
